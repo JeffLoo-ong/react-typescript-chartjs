@@ -1,0 +1,33 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "chart.js": "^2.7.1",
+    "moment": "^2.19.3",
+    "react": "^16.2.0",
+    "react-chartjs-2": "^2.6.4",
+    "react-datepicker": "^0.61.0",
+    "react-daterange-picker": "^1.1.0",
+    "react-dom": "^16.2.0",
+    "react-scripts-ts": "2.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.7.2",
+    "@types/enzyme": "^3.1.5",
+    "@types/jest": "^21.1.8",
+    "@types/node": "^8.0.53",
+    "@types/react": "^16.0.25",
+    "@types/react-datepicker": "^0.55.1",
+    "@types/react-dom": "^16.0.3",
+    "enzyme": "^3.2.0",
+    "react-addons-test-utils": "^15.6.2"
+  }
+}
